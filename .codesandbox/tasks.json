@@ -3,7 +3,7 @@
   "setupTasks": [
     {
       "name": "Install Dependencies",
-      "command": "yarn install"
+      "command": "npm install"
     }
   ],
 
@@ -11,8 +11,7 @@
   "tasks": {
     "test": {
       "name": "test",
-      "command": "yarn test",
-      "runAtStart": false
+      "command": "yarn test"
     },
     "start": {
       "name": "start",
@@ -21,8 +20,16 @@
     },
     "add-dev": {
       "name": "add-dev",
-      "command": "yarn add-dev",
-      "runAtStart": false
+      "command": "yarn add-dev"
+    },
+    "CSB_RUN_OUTSIDE_CONTAINER=1 devcontainer templates apply --template-id \"ghcr.io/devcontainers/templates/javascript-node\" --template-args '{}' --features '[]'": {
+      "name": "Environment setup",
+      "command": "CSB_RUN_OUTSIDE_CONTAINER=1 devcontainer templates apply --template-id \"ghcr.io/devcontainers/templates/javascript-node\" --template-args '{}' --features '[]'"
+    },
+    "npm install": {
+      "name": "npm install",
+      "command": "npm install",
+      "runAtStart": true
     }
   }
 }
