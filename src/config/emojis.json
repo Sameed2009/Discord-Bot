@@ -1,39 +1,39 @@
 {
     "normal": {
-        "error": "❌",
-        "check": "✔️",
-        "music": "🎵",
-        "volume": "🔉",
+        "error": "<a:Crossmark:1182327711134388315>",
+        "check": "<a:uptimer:1182330581980282913>",
+        "music": "<a:music:942289777347166268>",
+        "volume": "<a:volume:1182328289013010442>",
         "ball": "🎱",
         "christmas": "🎄",
-        "heart": "❤️",
-        "paper": "📰",
-        "scissors": "✂️",
+        "heart": "<a:YM_BouncingHeart:930682541713805312>",
+        "paper": "<:papers:1182687675187204178>",
+        "scissors": "<a:SCISSOR:1182687900069015605>",
         "stone": "🪨",
-        "pong": "🏓",
-        "birthday": "🎂",
-        "clock": "⏰",
-        "gift": "🎁",
-        "medal": "🏅",
-        "party": "🎉",
+        "pong": "<a:ping_pong:1182685576332316803>",
+        "birthday": "<a:birthday:1192508343781183509>",
+        "clock": "<a:clock:1182686464383914045>",
+        "gift": "<a:Finity_Gift_gift:1182686661981782108>",
+        "medal": "<a:medal3:1097182076219953334>",
+        "party": "<a:party2:1182686027849138257>",
         "info": "ℹ️",
-        "arrowDown": "⬇️",
-        "arrowUp": "⬆️",
+        "arrowDown": "<a:arrowdown:1182687259556860005>",
+        "arrowUp": "<a:arrowup:1182687230439993455>",
         "dcredits": "💳",
         "tv": "📺",
-        "slash": ""
+        "slash": "<:Commands:1182692578714468423>"
     },
 
     "Bot": {
         "add": "📥",
-        "info": "ℹ️",
+        "info": "<a:info:1182690783715930183>",
         "min": "🔻"
     },
 
     "economy": {
         "pocket": "👛",
-        "bank": "🏦",
-        "coins": "💰"
+        "bank": "<:bank:1182689921018908734>",
+        "coins": "<a:Coins:1182330117847007253>"
     },
 
     "music": {
@@ -41,29 +41,29 @@
         "pause": "⏸️",
         "previous": "⏮️",
         "stop": "⏹️",
-        "play": "▶️"
+        "play": "<:next:1182330407753101473>"
     },
 
     "badges": {
         "bot": "🤖",
-        "management": "👑",
+        "management": "<a:crown:1146328766080098304>",
         "bug": "🐛",
-        "developer": "👨‍💻",	
-        "supporter": "👨‍🔧",
-        "team": "👨‍👩‍👧‍👦",
-        "booster": "🚀",
-        "partner": "🤝",
-        "voter": "🗳️",
-        "support": "🔧",
-        "moderator": "👮",
-        "designer": "🎨",
-        "active": "🔥",
-        "event": "🎉",
-        "vip": "👑",
-        "marketing": "📈"
+        "developer": "<a:developer_bot:1187748098949263380>",	
+        "supporter": "<:SUPPORTER:1194644107570708581>",
+        "team": "<:Team:1182690343460819105>",
+        "booster": "<a:boosterop:1194644528548819007>",
+        "partner": "<:partner:1182333579502567507>",
+        "voter": "<:Vote:1182690261176963072>",
+        "support": "<a:support:1182333196587765810>",
+        "moderator": "<:moderator:1182332884158259292>",
+        "designer": "<a:paint:1182689192220831914>",
+        "active": "<:activedev:1192190636665876662> ",
+        "event": "<:Events:1192191132755574886> ",
+        "vip": "<:VIP:1192189877027082250>",
+        "marketing": "<:marketing:1182691298684194837>"
     },
 
     "animated": {
-        "loading": "🔄️"
+        "loading": "<a:loading:1168554641278107668>"
     }
 }

@@ -1,62 +1,62 @@
 {
     "startLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190271683177758780",
+        "token": "e5cOo2pQF-xg0DrR16kkpbEdT9zyPNQIQ_1iDzoQ7tpj-8mwF7VcQ_YVSIco3uyeXAZc"
     },
     "shardLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190271817441611908",
+        "token": "Foi5vb9vnJd8-MQ7dxlE5cCALBopoFwMmAhIFuSPrr4rBk9sTS9k_7paYwOEnkVxMVTz"
     },
     "errorLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190278090736291953",
+        "token": "pCvDYHOauC6VQCB2xP3teJURDF0LFB_E-2E6JJPNuWtXU7Voe0a6fpYgDr1g6GkQ78a3"
     },
     "dmLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190278245157961791",
+        "token": "IOhvkS6a68MoRjIxQfOGsQmJEGhLdSdMfpF65W0RVB3KTuDG0VGHT40p-GM0DUSYpq2-"
     },
     "voiceLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190278628433461298",
+        "token": "zZqEiWJdai3uUd2-s7mLa8IN6HvPbjoqKpm09GOLHgbd0UxeDT3AGjzhtpXNnUOtvetR"
     },
     "serverLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190279027274031205",
+        "token": "gACeqLpmvoK7ccschX5eL3fpooGnYlB3oyNpmzErwm0n8QiefUJKwsAAuYVS65aJkqoj"
     },
     "serverLogs2": {
-        "id": "",
-        "token": ""
+        "id": "1190279027274031205",
+        "token": "gACeqLpmvoK7ccschX5eL3fpooGnYlB3oyNpmzErwm0n8QiefUJKwsAAuYVS65aJkqoj"
     },
     "commandLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190279232690073600",
+        "token": "YvCa8EIDj5IaqnORPZtjKP8NwdFx-uY_bJ0fvs5X-PZjnvhIOe6LED-XfWdogP5uANi7"
     },
     "consoleLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190279640787451974",
+        "token": "-_EZqI0RshXDVe-c8rH3ahfUvZ7o1grQJ5c3o-saLVr69OToBzktbuHP7cLlsGqePqqN"
     },
     "warnLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190280098482499604",
+        "token": "lBH7W3tEgjPFaX_li5BnAzsjwiUXpfUnuwQwSaE2z-_GiWZZsOKeRDpCZcrUq5SzJztU"
     },
     "voiceErrorLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190278628433461298",
+        "token": "zZqEiWJdai3uUd2-s7mLa8IN6HvPbjoqKpm09GOLHgbd0UxeDT3AGjzhtpXNnUOtvetR"
     },
     "creditLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190277375057985586",
+        "token": "WweQ1v6wypS3EPotgHTGoZg6NLZAeqF7ZtcKnYJvIeDjGppbCxy91F7pU5RJU6oskb87"
     },
     "evalLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190276428843974767",
+        "token": "tXfsmzHLrJEeJs4HKMG0PHzn1QedE_R2SFrkOiwCrjSGP8g6Qh4Y4S7_mdCT6MF9fsWC"
     },
     "interactionLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190275932360028172",
+        "token": "Tg1W7PM-p1YT22MP-iYBTXfQW_slrnZTEF92i8WnVCBtL5N7fSCEIrmY-3yOz-wC7sH2"
     },
     "bugReportLogs": {
-        "id": "",
-        "token": ""
+        "id": "1190275737274556456",
+        "token": "emwnYxbfY1KuzcehXvsY7MHX0W9NdX_fErbFjvmjZvG79_5frj75xNR6It4rxVBJZWmw"
     }
 }
